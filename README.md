@@ -1,4 +1,3 @@
-# Learning Python for Data Science and Machine Learning
 ![alt text](<Fueler Twitter header - 21.jpg>)
 
 # Python Crash Course Notes
